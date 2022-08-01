@@ -1,0 +1,1516 @@
+﻿PokerStars Hand #237590770848: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2022/07/25 23:29:31 BRT [2022/07/25 22:29:31 ET]
+Table '3446798234 3' 9-max Seat #1 is the button
+Seat 1: spiga471 (1500 in chips) 
+Seat 2: 1993061427 (1500 in chips) 
+Seat 3: z4ckzin (1500 in chips) 
+Seat 4: morenaum (1500 in chips) 
+Seat 5: XeiraMeuCu (1500 in chips) 
+Seat 6: deni.dxc (1500 in chips) 
+Seat 8: ademan83 (1500 in chips) is sitting out
+spiga471: posts the ante 3
+1993061427: posts the ante 3
+z4ckzin: posts the ante 3
+morenaum: posts the ante 3
+XeiraMeuCu: posts the ante 3
+deni.dxc: posts the ante 3
+ademan83: posts the ante 3
+1993061427: posts small blind 10
+z4ckzin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to deni.dxc [9s Ts]
+morenaum: folds 
+XeiraMeuCu: raises 20 to 40
+deni.dxc: calls 40
+ademan83: folds 
+spiga471: calls 40
+1993061427: folds 
+z4ckzin: calls 20
+*** FLOP *** [Jh 9h Jd]
+z4ckzin: checks 
+XeiraMeuCu: checks 
+Vinao182 is disconnected 
+deni.dxc: checks 
+spiga471: checks 
+*** TURN *** [Jh 9h Jd] [5c]
+z4ckzin: checks 
+XeiraMeuCu: checks 
+deni.dxc: checks 
+spiga471: checks 
+*** RIVER *** [Jh 9h Jd 5c] [Js]
+z4ckzin: checks 
+XeiraMeuCu: checks 
+deni.dxc: checks 
+spiga471: checks 
+*** SHOW DOWN ***
+z4ckzin: shows [6c Qh] (three of a kind, Jacks)
+XeiraMeuCu: shows [2d Kd] (three of a kind, Jacks - King kicker)
+deni.dxc: shows [9s Ts] (a full house, Jacks full of Nines)
+spiga471: mucks hand 
+deni.dxc collected 191 from pot
+*** SUMMARY ***
+Total pot 191 | Rake 0 
+Board [Jh 9h Jd 5c Js]
+Seat 1: spiga471 (button) mucked [8c Ac]
+Seat 2: 1993061427 (small blind) folded before Flop
+Seat 3: z4ckzin (big blind) showed [6c Qh] and lost with three of a kind, Jacks
+Seat 4: morenaum folded before Flop (didn't bet)
+Seat 5: XeiraMeuCu showed [2d Kd] and lost with three of a kind, Jacks
+Seat 6: deni.dxc showed [9s Ts] and won (191) with a full house, Jacks full of Nines
+Seat 8: ademan83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590793927: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2022/07/25 23:30:59 BRT [2022/07/25 22:30:59 ET]
+Table '3446798234 3' 9-max Seat #2 is the button
+Seat 1: spiga471 (1457 in chips) 
+Seat 2: 1993061427 (1487 in chips) 
+Seat 3: z4ckzin (1457 in chips) 
+Seat 5: XeiraMeuCu (1457 in chips) 
+Seat 6: deni.dxc (1648 in chips) 
+Seat 7: manco2018 (1500 in chips) 
+Seat 8: ademan83 (1497 in chips) is sitting out
+Seat 9: Vinao182 (1500 in chips) 
+spiga471: posts the ante 3
+1993061427: posts the ante 3
+z4ckzin: posts the ante 3
+XeiraMeuCu: posts the ante 3
+deni.dxc: posts the ante 3
+manco2018: posts the ante 3
+ademan83: posts the ante 3
+Vinao182: posts the ante 3
+z4ckzin: posts small blind 10
+XeiraMeuCu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to deni.dxc [6d 2c]
+deni.dxc: folds 
+manco2018: calls 20
+ademan83: folds 
+Vinao182: raises 40 to 60
+spiga471: folds 
+1993061427: raises 1424 to 1484 and is all-in
+z4ckzin: folds 
+XeiraMeuCu: folds 
+manco2018: folds 
+Vinao182: calls 1424
+*** FLOP *** [Kh 7h Jh]
+*** TURN *** [Kh 7h Jh] [8d]
+*** RIVER *** [Kh 7h Jh 8d] [5s]
+*** SHOW DOWN ***
+Vinao182: shows [As Qs] (high card Ace)
+1993061427: shows [Kc 3c] (a pair of Kings)
+1993061427 collected 3042 from pot
+1993061427 is sitting out
+*** SUMMARY ***
+Total pot 3042 | Rake 0 
+Board [Kh 7h Jh 8d 5s]
+Seat 1: spiga471 folded before Flop (didn't bet)
+Seat 2: 1993061427 (button) showed [Kc 3c] and won (3042) with a pair of Kings
+Seat 3: z4ckzin (small blind) folded before Flop
+Seat 5: XeiraMeuCu (big blind) folded before Flop
+Seat 6: deni.dxc folded before Flop (didn't bet)
+Seat 7: manco2018 folded before Flop
+Seat 8: ademan83 folded before Flop (didn't bet)
+Seat 9: Vinao182 showed [As Qs] and lost with high card Ace
+
+
+
+PokerStars Hand #237590800969: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2022/07/25 23:31:39 BRT [2022/07/25 22:31:39 ET]
+Table '3446798234 3' 9-max Seat #3 is the button
+Seat 1: spiga471 (1454 in chips) 
+Seat 2: 1993061427 (3042 in chips) is sitting out
+Seat 3: z4ckzin (1444 in chips) 
+Seat 5: XeiraMeuCu (1434 in chips) 
+Seat 6: deni.dxc (1645 in chips) 
+Seat 7: manco2018 (1477 in chips) 
+Seat 8: ademan83 (1494 in chips) is sitting out
+Seat 9: Vinao182 (13 in chips) 
+spiga471: posts the ante 3
+1993061427: posts the ante 3
+z4ckzin: posts the ante 3
+XeiraMeuCu: posts the ante 3
+deni.dxc: posts the ante 3
+manco2018: posts the ante 3
+ademan83: posts the ante 3
+Vinao182: posts the ante 3
+XeiraMeuCu: posts small blind 10
+deni.dxc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to deni.dxc [9h 6d]
+manco2018: folds 
+ademan83: folds 
+Vinao182: calls 10 and is all-in
+spiga471: folds 
+1993061427: folds 
+z4ckzin: folds 
+XeiraMeuCu: calls 10
+deni.dxc: checks 
+*** FLOP *** [2d Ac Td]
+XeiraMeuCu: checks 
+deni.dxc: checks 
+*** TURN *** [2d Ac Td] [Qh]
+XeiraMeuCu: checks 
+deni.dxc: checks 
+*** RIVER *** [2d Ac Td Qh] [Jd]
+XeiraMeuCu: checks 
+deni.dxc: checks 
+*** SHOW DOWN ***
+XeiraMeuCu: shows [8c 9s] (a straight, Eight to Queen)
+deni.dxc: mucks hand 
+XeiraMeuCu collected 20 from side pot
+Vinao182: shows [Qd Kd] (a flush, King high)
+Vinao182 collected 54 from main pot
+*** SUMMARY ***
+Total pot 74 Main pot 54. Side pot 20. | Rake 0 
+Board [2d Ac Td Qh Jd]
+Seat 1: spiga471 folded before Flop (didn't bet)
+Seat 2: 1993061427 folded before Flop (didn't bet)
+Seat 3: z4ckzin (button) folded before Flop (didn't bet)
+Seat 5: XeiraMeuCu (small blind) showed [8c 9s] and won (20) with a straight, Eight to Queen
+Seat 6: deni.dxc (big blind) mucked [9h 6d]
+Seat 7: manco2018 folded before Flop (didn't bet)
+Seat 8: ademan83 folded before Flop (didn't bet)
+Seat 9: Vinao182 showed [Qd Kd] and won (54) with a flush, King high
+
+
+
+PokerStars Hand #237590808569: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2022/07/25 23:32:20 BRT [2022/07/25 22:32:20 ET]
+Table '3446798234 3' 9-max Seat #5 is the button
+Seat 1: spiga471 (1451 in chips) 
+Seat 2: 1993061427 (3039 in chips) is sitting out
+Seat 3: z4ckzin (1441 in chips) 
+Seat 5: XeiraMeuCu (1431 in chips) 
+Seat 6: deni.dxc (1622 in chips) 
+Seat 7: manco2018 (1474 in chips) 
+Seat 8: ademan83 (1491 in chips) is sitting out
+Seat 9: Vinao182 (54 in chips) 
+spiga471: posts the ante 3
+1993061427: posts the ante 3
+z4ckzin: posts the ante 3
+XeiraMeuCu: posts the ante 3
+deni.dxc: posts the ante 3
+manco2018: posts the ante 3
+ademan83: posts the ante 3
+Vinao182: posts the ante 3
+deni.dxc: posts small blind 10
+manco2018: posts big blind 20
+*** HOLE CARDS ***
+Dealt to deni.dxc [Ts 3c]
+ademan83: folds 
+Vinao182: folds 
+spiga471: raises 20 to 40
+1993061427: folds 
+1993061427 is disconnected 
+1993061427 has returned
+z4ckzin: calls 40
+XeiraMeuCu: folds 
+deni.dxc: folds 
+manco2018: raises 154 to 194
+spiga471: folds 
+z4ckzin: calls 154
+*** FLOP *** [8c Kd Js]
+manco2018: bets 462
+Waltisrael is disconnected 
+z4ckzin: raises 782 to 1244 and is all-in
+manco2018: calls 782
+*** TURN *** [8c Kd Js] [9d]
+*** RIVER *** [8c Kd Js 9d] [9h]
+*** SHOW DOWN ***
+manco2018: shows [Qc Ah] (a pair of Nines)
+z4ckzin: shows [Td 8s] (two pair, Nines and Eights)
+z4ckzin collected 2950 from pot
+*** SUMMARY ***
+Total pot 2950 | Rake 0 
+Board [8c Kd Js 9d 9h]
+Seat 1: spiga471 folded before Flop
+Seat 2: 1993061427 folded before Flop (didn't bet)
+Seat 3: z4ckzin showed [Td 8s] and won (2950) with two pair, Nines and Eights
+Seat 5: XeiraMeuCu (button) folded before Flop (didn't bet)
+Seat 6: deni.dxc (small blind) folded before Flop
+Seat 7: manco2018 (big blind) showed [Qc Ah] and lost with a pair of Nines
+Seat 8: ademan83 folded before Flop (didn't bet)
+Seat 9: Vinao182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590821477: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2022/07/25 23:33:31 BRT [2022/07/25 22:33:31 ET]
+Table '3446798234 3' 9-max Seat #6 is the button
+Seat 1: spiga471 (1408 in chips) 
+Seat 2: 1993061427 (3036 in chips) 
+Seat 3: z4ckzin (2950 in chips) 
+Seat 4: Waltisrael (1500 in chips) 
+Seat 5: XeiraMeuCu (1428 in chips) 
+Seat 6: deni.dxc (1609 in chips) 
+Seat 7: manco2018 (33 in chips) 
+Seat 9: Vinao182 (51 in chips) 
+spiga471: posts the ante 3
+1993061427: posts the ante 3
+z4ckzin: posts the ante 3
+Waltisrael: posts the ante 3
+XeiraMeuCu: posts the ante 3
+deni.dxc: posts the ante 3
+manco2018: posts the ante 3
+Vinao182: posts the ante 3
+manco2018: posts small blind 10
+Vinao182: posts big blind 20
+*** HOLE CARDS ***
+Dealt to deni.dxc [Kc 2s]
+spiga471: folds 
+1993061427: raises 3013 to 3033 and is all-in
+z4ckzin: folds 
+Waltisrael: folds 
+XeiraMeuCu: folds 
+deni.dxc: folds 
+manco2018: calls 20 and is all-in
+Vinao182: calls 28 and is all-in
+Uncalled bet (2985) returned to 1993061427
+*** FLOP *** [Ac Qh 7c]
+*** TURN *** [Ac Qh 7c] [Qc]
+*** RIVER *** [Ac Qh 7c Qc] [Kd]
+*** SHOW DOWN ***
+Vinao182: shows [7h 9c] (two pair, Queens and Sevens)
+1993061427: shows [Ah 8h] (two pair, Aces and Queens)
+1993061427 collected 36 from side pot
+manco2018: shows [4c 7d] (two pair, Queens and Sevens)
+1993061427 collected 114 from main pot
+Vinao182 finished the tournament
+manco2018 finished the tournament
+*** SUMMARY ***
+Total pot 150 Main pot 114. Side pot 36. | Rake 0 
+Board [Ac Qh 7c Qc Kd]
+Seat 1: spiga471 folded before Flop (didn't bet)
+Seat 2: 1993061427 showed [Ah 8h] and won (150) with two pair, Aces and Queens
+Seat 3: z4ckzin folded before Flop (didn't bet)
+Seat 4: Waltisrael folded before Flop (didn't bet)
+Seat 5: XeiraMeuCu folded before Flop (didn't bet)
+Seat 6: deni.dxc (button) folded before Flop (didn't bet)
+Seat 7: manco2018 (small blind) showed [4c 7d] and lost with two pair, Queens and Sevens
+Seat 9: Vinao182 (big blind) showed [7h 9c] and lost with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #237590827380: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2022/07/25 23:34:04 BRT [2022/07/25 22:34:04 ET]
+Table '3446798234 3' 9-max Seat #2 is the button
+Seat 2: 1993061427 (3135 in chips) 
+Seat 3: z4ckzin (2947 in chips) 
+Seat 4: Waltisrael (1497 in chips) 
+Seat 5: XeiraMeuCu (1425 in chips) 
+Seat 6: deni.dxc (1606 in chips) 
+1993061427: posts the ante 3
+z4ckzin: posts the ante 3
+Waltisrael: posts the ante 3
+XeiraMeuCu: posts the ante 3
+deni.dxc: posts the ante 3
+z4ckzin: posts small blind 10
+Waltisrael: posts big blind 20
+*** HOLE CARDS ***
+Dealt to deni.dxc [Ts 5d]
+XeiraMeuCu: calls 20
+deni.dxc: folds 
+1993061427: raises 20 to 40
+z4ckzin: calls 30
+Waltisrael: calls 20
+XeiraMeuCu: calls 20
+*** FLOP *** [Qs 3h 6c]
+SOY PATO355 is disconnected 
+z4ckzin: checks 
+Waltisrael: checks 
+QUINDICI3838 is disconnected 
+XeiraMeuCu: bets 120
+1993061427: folds 
+z4ckzin: folds 
+Waltisrael: folds 
+Uncalled bet (120) returned to XeiraMeuCu
+XeiraMeuCu collected 175 from pot
+XeiraMeuCu: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Board [Qs 3h 6c]
+Seat 2: 1993061427 (button) folded on the Flop
+Seat 3: z4ckzin (small blind) folded on the Flop
+Seat 4: Waltisrael (big blind) folded on the Flop
+Seat 5: XeiraMeuCu collected (175)
+Seat 6: deni.dxc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590835475: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2022/07/25 23:34:49 BRT [2022/07/25 22:34:49 ET]
+Table '3446798234 3' 9-max Seat #3 is the button
+Seat 1: SOY PATO355 (1427 in chips) 
+Seat 2: 1993061427 (3092 in chips) 
+Seat 3: z4ckzin (2904 in chips) 
+Seat 4: Waltisrael (1454 in chips) 
+Seat 5: XeiraMeuCu (1557 in chips) 
+Seat 6: deni.dxc (1603 in chips) 
+Seat 7: QUINDICI3838 (1478 in chips) 
+SOY PATO355: posts the ante 4
+1993061427: posts the ante 4
+z4ckzin: posts the ante 4
+Waltisrael: posts the ante 4
+XeiraMeuCu: posts the ante 4
+deni.dxc: posts the ante 4
+QUINDICI3838: posts the ante 4
+Waltisrael: posts small blind 15
+XeiraMeuCu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to deni.dxc [3c 7d]
+deni.dxc: folds 
+QUINDICI3838: folds 
+SOY PATO355: folds 
+1993061427 has timed out
+1993061427: folds 
+1993061427 is sitting out
+z4ckzin: folds 
+1993061427 has returned
+Waltisrael: raises 60 to 90
+XeiraMeuCu: calls 60
+*** FLOP *** [Kh 3d 3h]
+Waltisrael: bets 139
+XeiraMeuCu: folds 
+Uncalled bet (139) returned to Waltisrael
+Waltisrael collected 208 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [Kh 3d 3h]
+Seat 1: SOY PATO355 folded before Flop (didn't bet)
+Seat 2: 1993061427 folded before Flop (didn't bet)
+Seat 3: z4ckzin (button) folded before Flop (didn't bet)
+Seat 4: Waltisrael (small blind) collected (208)
+Seat 5: XeiraMeuCu (big blind) folded on the Flop
+Seat 6: deni.dxc folded before Flop (didn't bet)
+Seat 7: QUINDICI3838 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590850272: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2022/07/25 23:36:11 BRT [2022/07/25 22:36:11 ET]
+Table '3446798234 3' 9-max Seat #4 is the button
+Seat 1: SOY PATO355 (1423 in chips) 
+Seat 2: 1993061427 (3088 in chips) 
+Seat 3: z4ckzin (2900 in chips) 
+Seat 4: Waltisrael (1568 in chips) 
+Seat 5: XeiraMeuCu (1463 in chips) 
+Seat 6: deni.dxc (1599 in chips) 
+Seat 7: QUINDICI3838 (1474 in chips) 
+Seat 9: LordJulio29 (1500 in chips) 
+SOY PATO355: posts the ante 4
+1993061427: posts the ante 4
+z4ckzin: posts the ante 4
+Waltisrael: posts the ante 4
+XeiraMeuCu: posts the ante 4
+deni.dxc: posts the ante 4
+QUINDICI3838: posts the ante 4
+LordJulio29: posts the ante 4
+XeiraMeuCu: posts small blind 15
+deni.dxc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to deni.dxc [4c 7h]
+QUINDICI3838: calls 30
+LordJulio29: calls 30
+SOY PATO355: folds 
+1993061427 has timed out
+1993061427: folds 
+1993061427 is sitting out
+z4ckzin: raises 30 to 60
+Waltisrael: calls 60
+XeiraMeuCu: calls 45
+deni.dxc: folds 
+QUINDICI3838: folds 
+LordJulio29: calls 30
+*** FLOP *** [2s 5s Th]
+1993061427 has returned
+XeiraMeuCu: bets 120
+LordJulio29: calls 120
+z4ckzin: folds 
+Waltisrael: raises 341 to 461
+XeiraMeuCu: calls 341
+LordJulio29: raises 975 to 1436 and is all-in
+Waltisrael: calls 975
+XeiraMeuCu: calls 938 and is all-in
+*** TURN *** [2s 5s Th] [3c]
+*** RIVER *** [2s 5s Th 3c] [7c]
+*** SHOW DOWN ***
+LordJulio29: shows [5d 5h] (three of a kind, Fives)
+Waltisrael: shows [Qs 9s] (high card Queen)
+LordJulio29 collected 74 from side pot
+XeiraMeuCu: shows [8d Tc] (a pair of Tens)
+LordJulio29 collected 4529 from main pot
+XeiraMeuCu finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 4603 Main pot 4529. Side pot 74. | Rake 0 
+Board [2s 5s Th 3c 7c]
+Seat 1: SOY PATO355 folded before Flop (didn't bet)
+Seat 2: 1993061427 folded before Flop (didn't bet)
+Seat 3: z4ckzin folded on the Flop
+Seat 4: Waltisrael (button) showed [Qs 9s] and lost with high card Queen
+Seat 5: XeiraMeuCu (small blind) showed [8d Tc] and lost with a pair of Tens
+Seat 6: deni.dxc (big blind) folded before Flop
+Seat 7: QUINDICI3838 folded before Flop
+Seat 9: LordJulio29 showed [5d 5h] and won (4603) with three of a kind, Fives
+
+
+
+PokerStars Hand #237590870726: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2022/07/25 23:38:06 BRT [2022/07/25 22:38:06 ET]
+Table '3446798234 3' 9-max Seat #6 is the button
+Seat 1: SOY PATO355 (1419 in chips) 
+Seat 2: 1993061427 (3084 in chips) 
+Seat 3: z4ckzin (2836 in chips) 
+Seat 4: Waltisrael (68 in chips) 
+Seat 6: deni.dxc (1565 in chips) 
+Seat 7: QUINDICI3838 (1440 in chips) 
+Seat 9: LordJulio29 (4603 in chips) 
+SOY PATO355: posts the ante 4
+1993061427: posts the ante 4
+z4ckzin: posts the ante 4
+Waltisrael: posts the ante 4
+deni.dxc: posts the ante 4
+QUINDICI3838: posts the ante 4
+LordJulio29: posts the ante 4
+QUINDICI3838: posts small blind 15
+LordJulio29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to deni.dxc [2c 8s]
+SOY PATO355: folds 
+1993061427 has timed out
+1993061427: folds 
+1993061427 is sitting out
+z4ckzin: folds 
+Waltisrael: folds 
+deni.dxc: folds 
+QUINDICI3838: raises 1406 to 1436 and is all-in
+LordJulio29: folds 
+Uncalled bet (1406) returned to QUINDICI3838
+QUINDICI3838 collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Seat 1: SOY PATO355 folded before Flop (didn't bet)
+Seat 2: 1993061427 folded before Flop (didn't bet)
+Seat 3: z4ckzin folded before Flop (didn't bet)
+Seat 4: Waltisrael folded before Flop (didn't bet)
+Seat 6: deni.dxc (button) folded before Flop (didn't bet)
+Seat 7: QUINDICI3838 (small blind) collected (88)
+Seat 9: LordJulio29 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237590876440: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2022/07/25 23:38:38 BRT [2022/07/25 22:38:38 ET]
+Table '3446798234 3' 9-max Seat #7 is the button
+Seat 1: SOY PATO355 (1415 in chips) 
+Seat 2: 1993061427 (3080 in chips) is sitting out
+Seat 3: z4ckzin (2832 in chips) 
+Seat 4: Waltisrael (64 in chips) 
+Seat 6: deni.dxc (1561 in chips) 
+Seat 7: QUINDICI3838 (1494 in chips) 
+Seat 8: S3IXAS (1262 in chips) out of hand (moved from another table into small blind)
+Seat 9: LordJulio29 (4569 in chips) 
+S3IXAS will be allowed to play after the button
+SOY PATO355: posts the ante 4
+1993061427: posts the ante 4
+z4ckzin: posts the ante 4
+Waltisrael: posts the ante 4
+deni.dxc: posts the ante 4
+QUINDICI3838: posts the ante 4
+LordJulio29: posts the ante 4
+LordJulio29: posts small blind 15
+SOY PATO355: posts big blind 30
+*** HOLE CARDS ***
+Dealt to deni.dxc [2s 4c]
+1993061427: folds 
+z4ckzin: raises 60 to 90
+Waltisrael: folds 
+deni.dxc: folds 
+QUINDICI3838: folds 
+LordJulio29: folds 
+SOY PATO355: calls 60
+*** FLOP *** [Ah 8h Jc]
+SOY PATO355: checks 
+z4ckzin: bets 60
+SOY PATO355: folds 
+Uncalled bet (60) returned to z4ckzin
+z4ckzin collected 223 from pot
+z4ckzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Board [Ah 8h Jc]
+Seat 1: SOY PATO355 (big blind) folded on the Flop
+Seat 2: 1993061427 folded before Flop (didn't bet)
+Seat 3: z4ckzin collected (223)
+Seat 4: Waltisrael folded before Flop (didn't bet)
+Seat 6: deni.dxc folded before Flop (didn't bet)
+Seat 7: QUINDICI3838 (button) folded before Flop (didn't bet)
+Seat 9: LordJulio29 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237590881395: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level II (15/30) - 2022/07/25 23:39:06 BRT [2022/07/25 22:39:06 ET]
+Table '3446798234 3' 9-max Seat #9 is the button
+Seat 1: SOY PATO355 (1321 in chips) 
+Seat 2: 1993061427 (3076 in chips) is sitting out
+Seat 3: z4ckzin (2961 in chips) 
+Seat 4: Waltisrael (60 in chips) 
+Seat 6: deni.dxc (1557 in chips) 
+Seat 7: QUINDICI3838 (1490 in chips) 
+Seat 8: S3IXAS (1262 in chips) 
+Seat 9: LordJulio29 (4550 in chips) 
+SOY PATO355: posts the ante 4
+1993061427: posts the ante 4
+z4ckzin: posts the ante 4
+Waltisrael: posts the ante 4
+deni.dxc: posts the ante 4
+QUINDICI3838: posts the ante 4
+S3IXAS: posts the ante 4
+LordJulio29: posts the ante 4
+SOY PATO355: posts small blind 15
+1993061427: posts big blind 30
+*** HOLE CARDS ***
+Dealt to deni.dxc [Ts Kc]
+z4ckzin: folds 
+Waltisrael: raises 26 to 56 and is all-in
+deni.dxc: calls 56
+QUINDICI3838: calls 56
+1993061427 has returned
+S3IXAS: raises 124 to 180
+LordJulio29: folds 
+SOY PATO355: raises 1137 to 1317 and is all-in
+1993061427: calls 1287
+deni.dxc: folds 
+QUINDICI3838: raises 169 to 1486 and is all-in
+S3IXAS: folds 
+1993061427: calls 169
+*** FLOP *** [6h Ah 8s]
+*** TURN *** [6h Ah 8s] [5d]
+*** RIVER *** [6h Ah 8s 5d] [7s]
+*** SHOW DOWN ***
+1993061427: shows [Ac Td] (a pair of Aces)
+QUINDICI3838: shows [Ad As] (three of a kind, Aces)
+QUINDICI3838 collected 338 from side pot-2 
+SOY PATO355: shows [Ks Qs] (high card Ace)
+QUINDICI3838 collected 3907 from side pot-1 
+Waltisrael: shows [6d 8d] (two pair, Eights and Sixes)
+QUINDICI3838 collected 368 from main pot
+SOY PATO355 finished the tournament in 37th place
+Waltisrael finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 4613 Main pot 368. Side pot-1 3907. Side pot-2 338. | Rake 0 
+Board [6h Ah 8s 5d 7s]
+Seat 1: SOY PATO355 (small blind) showed [Ks Qs] and lost with high card Ace
+Seat 2: 1993061427 (big blind) showed [Ac Td] and lost with a pair of Aces
+Seat 3: z4ckzin folded before Flop (didn't bet)
+Seat 4: Waltisrael showed [6d 8d] and lost with two pair, Eights and Sixes
+Seat 6: deni.dxc folded before Flop
+Seat 7: QUINDICI3838 showed [Ad As] and won (4613) with three of a kind, Aces
+Seat 8: S3IXAS folded before Flop
+Seat 9: LordJulio29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590893517: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2022/07/25 23:40:16 BRT [2022/07/25 22:40:16 ET]
+Table '3446798234 5' 9-max Seat #1 is the button
+Seat 1: ademan83 (1416 in chips) 
+Seat 2: liev_ref (3547 in chips) 
+Seat 3: spiga471 (1328 in chips) 
+Seat 4: manco2018 (1545 in chips) 
+Seat 5: QUINDICI3838 (4613 in chips) 
+Seat 6: paulorcotrim (1491 in chips) 
+Seat 7: Vinao182 (1458 in chips) is sitting out
+Seat 8: deni.dxc (1497 in chips) 
+Seat 9: LuCaSLimaAAKK (1138 in chips) 
+ademan83: posts the ante 6
+liev_ref: posts the ante 6
+spiga471: posts the ante 6
+manco2018: posts the ante 6
+QUINDICI3838: posts the ante 6
+paulorcotrim: posts the ante 6
+Vinao182: posts the ante 6
+deni.dxc: posts the ante 6
+LuCaSLimaAAKK: posts the ante 6
+liev_ref: posts small blind 25
+spiga471: posts big blind 50
+*** HOLE CARDS ***
+Dealt to deni.dxc [Jh 6h]
+manco2018: calls 50
+QUINDICI3838: folds 
+paulorcotrim: calls 50
+Vinao182: folds 
+deni.dxc: folds 
+LuCaSLimaAAKK: calls 50
+ademan83: calls 50
+liev_ref: folds 
+spiga471: checks 
+*** FLOP *** [6s 8h 4c]
+spiga471: checks 
+manco2018: checks 
+paulorcotrim: checks 
+LuCaSLimaAAKK: bets 164
+ademan83: folds 
+spiga471: folds 
+manco2018: calls 164
+paulorcotrim: folds 
+*** TURN *** [6s 8h 4c] [9d]
+manco2018: checks 
+LuCaSLimaAAKK: bets 657
+manco2018: calls 657
+*** RIVER *** [6s 8h 4c 9d] [4s]
+manco2018: checks 
+LuCaSLimaAAKK: bets 261 and is all-in
+manco2018: folds 
+Uncalled bet (261) returned to LuCaSLimaAAKK
+LuCaSLimaAAKK collected 1971 from pot
+LuCaSLimaAAKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 1971 | Rake 0 
+Board [6s 8h 4c 9d 4s]
+Seat 1: ademan83 (button) folded on the Flop
+Seat 2: liev_ref (small blind) folded before Flop
+Seat 3: spiga471 (big blind) folded on the Flop
+Seat 4: manco2018 folded on the River
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 6: paulorcotrim folded on the Flop
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK collected (1971)
+
+
+
+PokerStars Hand #237590913905: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2022/07/25 23:41:52 BRT [2022/07/25 22:41:52 ET]
+Table '3446798234 5' 9-max Seat #2 is the button
+Seat 1: ademan83 (1360 in chips) 
+Seat 2: liev_ref (3516 in chips) 
+Seat 3: spiga471 (1272 in chips) 
+Seat 4: manco2018 (668 in chips) 
+Seat 5: QUINDICI3838 (4607 in chips) 
+Seat 6: paulorcotrim (1435 in chips) 
+Seat 7: Vinao182 (1452 in chips) is sitting out
+Seat 8: deni.dxc (1491 in chips) 
+Seat 9: LuCaSLimaAAKK (2232 in chips) 
+ademan83: posts the ante 6
+liev_ref: posts the ante 6
+spiga471: posts the ante 6
+manco2018: posts the ante 6
+QUINDICI3838: posts the ante 6
+paulorcotrim: posts the ante 6
+Vinao182: posts the ante 6
+deni.dxc: posts the ante 6
+LuCaSLimaAAKK: posts the ante 6
+spiga471: posts small blind 25
+manco2018: posts big blind 50
+*** HOLE CARDS ***
+Dealt to deni.dxc [4s 2d]
+QUINDICI3838: folds 
+paulorcotrim: folds 
+Vinao182: folds 
+deni.dxc: folds 
+LuCaSLimaAAKK: calls 50
+ademan83: calls 50
+liev_ref: folds 
+spiga471: folds 
+manco2018: checks 
+*** FLOP *** [Td 8s 5d]
+manco2018: checks 
+LuCaSLimaAAKK: bets 229
+ademan83: calls 229
+manco2018: calls 229
+*** TURN *** [Td 8s 5d] [7c]
+manco2018: checks 
+LuCaSLimaAAKK: bets 916
+ademan83: raises 159 to 1075 and is all-in
+manco2018: calls 383 and is all-in
+LuCaSLimaAAKK: calls 159
+*** RIVER *** [Td 8s 5d 7c] [5c]
+*** SHOW DOWN ***
+LuCaSLimaAAKK: shows [5h 8c] (a full house, Fives full of Eights)
+ademan83: shows [6d Jd] (a pair of Fives)
+LuCaSLimaAAKK collected 1384 from side pot
+manco2018: shows [6s 9s] (a straight, Six to Ten)
+LuCaSLimaAAKK collected 2065 from main pot
+ademan83 finished the tournament in 29th place
+manco2018 finished the tournament in 30th place
+*** SUMMARY ***
+Total pot 3449 Main pot 2065. Side pot 1384. | Rake 0 
+Board [Td 8s 5d 7c 5c]
+Seat 1: ademan83 showed [6d Jd] and lost with a pair of Fives
+Seat 2: liev_ref (button) folded before Flop (didn't bet)
+Seat 3: spiga471 (small blind) folded before Flop
+Seat 4: manco2018 (big blind) showed [6s 9s] and lost with a straight, Six to Ten
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 6: paulorcotrim folded before Flop (didn't bet)
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK showed [5h 8c] and won (3449) with a full house, Fives full of Eights
+
+
+
+PokerStars Hand #237590928994: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2022/07/25 23:43:19 BRT [2022/07/25 22:43:19 ET]
+Table '3446798234 5' 9-max Seat #3 is the button
+Seat 2: liev_ref (3510 in chips) 
+Seat 3: spiga471 (1241 in chips) 
+Seat 5: QUINDICI3838 (4601 in chips) 
+Seat 6: paulorcotrim (1429 in chips) 
+Seat 7: Vinao182 (1446 in chips) is sitting out
+Seat 8: deni.dxc (1485 in chips) 
+Seat 9: LuCaSLimaAAKK (4321 in chips) 
+liev_ref: posts the ante 6
+spiga471: posts the ante 6
+QUINDICI3838: posts the ante 6
+paulorcotrim: posts the ante 6
+Vinao182: posts the ante 6
+deni.dxc: posts the ante 6
+LuCaSLimaAAKK: posts the ante 6
+QUINDICI3838: posts small blind 25
+paulorcotrim: posts big blind 50
+*** HOLE CARDS ***
+Dealt to deni.dxc [7d Jh]
+Vinao182: folds 
+deni.dxc: folds 
+LuCaSLimaAAKK has timed out
+LuCaSLimaAAKK: folds 
+LuCaSLimaAAKK is sitting out
+LuCaSLimaAAKK has returned
+liev_ref: raises 50 to 100
+spiga471: folds 
+QUINDICI3838: folds 
+paulorcotrim: calls 50
+*** FLOP *** [4s Qh 2h]
+paulorcotrim: checks 
+liev_ref: bets 83
+paulorcotrim: raises 817 to 900
+liev_ref: folds 
+Uncalled bet (817) returned to paulorcotrim
+paulorcotrim collected 433 from pot
+paulorcotrim: doesn't show hand 
+*** SUMMARY ***
+Total pot 433 | Rake 0 
+Board [4s Qh 2h]
+Seat 2: liev_ref folded on the Flop
+Seat 3: spiga471 (button) folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 (small blind) folded before Flop
+Seat 6: paulorcotrim (big blind) collected (433)
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590940682: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level III (25/50) - 2022/07/25 23:44:26 BRT [2022/07/25 22:44:26 ET]
+Table '3446798234 5' 9-max Seat #5 is the button
+Seat 2: liev_ref (3321 in chips) 
+Seat 3: spiga471 (1235 in chips) 
+Seat 5: QUINDICI3838 (4570 in chips) 
+Seat 6: paulorcotrim (1673 in chips) 
+Seat 7: Vinao182 (1440 in chips) is sitting out
+Seat 8: deni.dxc (1479 in chips) 
+Seat 9: LuCaSLimaAAKK (4315 in chips) 
+liev_ref: posts the ante 6
+spiga471: posts the ante 6
+QUINDICI3838: posts the ante 6
+paulorcotrim: posts the ante 6
+Vinao182: posts the ante 6
+deni.dxc: posts the ante 6
+LuCaSLimaAAKK: posts the ante 6
+paulorcotrim: posts small blind 25
+Vinao182: posts big blind 50
+*** HOLE CARDS ***
+Dealt to deni.dxc [4d 3s]
+deni.dxc: folds 
+LuCaSLimaAAKK: folds 
+liev_ref: folds 
+spiga471: folds 
+QUINDICI3838: folds 
+paulorcotrim: folds 
+Uncalled bet (25) returned to Vinao182
+Vinao182 collected 92 from pot
+Vinao182: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 (button) folded before Flop (didn't bet)
+Seat 6: paulorcotrim (small blind) folded before Flop
+Seat 7: Vinao182 (big blind) collected (92)
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590944455: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:44:47 BRT [2022/07/25 22:44:47 ET]
+Table '3446798234 5' 9-max Seat #6 is the button
+Seat 2: liev_ref (3315 in chips) 
+Seat 3: spiga471 (1229 in chips) 
+Seat 5: QUINDICI3838 (4564 in chips) 
+Seat 6: paulorcotrim (1642 in chips) 
+Seat 7: Vinao182 (1501 in chips) is sitting out
+Seat 8: deni.dxc (1473 in chips) 
+Seat 9: LuCaSLimaAAKK (4309 in chips) 
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+QUINDICI3838: posts the ante 10
+paulorcotrim: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+Vinao182: posts small blind 40
+deni.dxc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [Qh 2d]
+LuCaSLimaAAKK: folds 
+liev_ref: folds 
+muschkote44 is disconnected 
+z4ckzin is disconnected 
+spiga471: folds 
+QUINDICI3838: folds 
+paulorcotrim: folds 
+Vinao182: folds 
+Uncalled bet (40) returned to deni.dxc
+deni.dxc collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 6: paulorcotrim (button) folded before Flop (didn't bet)
+Seat 7: Vinao182 (small blind) folded before Flop
+Seat 8: deni.dxc (big blind) collected (150)
+Seat 9: LuCaSLimaAAKK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237590949203: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:45:15 BRT [2022/07/25 22:45:15 ET]
+Table '3446798234 5' 9-max Seat #7 is the button
+Seat 1: z4ckzin (2846 in chips) 
+Seat 2: liev_ref (3305 in chips) 
+Seat 3: spiga471 (1219 in chips) 
+Seat 4: muschkote44 (3109 in chips) 
+Seat 5: QUINDICI3838 (4554 in chips) 
+Seat 6: paulorcotrim (1632 in chips) 
+Seat 7: Vinao182 (1451 in chips) is sitting out
+Seat 8: deni.dxc (1573 in chips) 
+Seat 9: LuCaSLimaAAKK (4299 in chips) 
+z4ckzin: posts the ante 10
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+muschkote44: posts the ante 10
+QUINDICI3838: posts the ante 10
+paulorcotrim: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+deni.dxc: posts small blind 40
+LuCaSLimaAAKK: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [3d Jh]
+z4ckzin: raises 80 to 160
+liev_ref: folds 
+spiga471: folds 
+muschkote44: calls 160
+QUINDICI3838: folds 
+paulorcotrim: folds 
+Vinao182: folds 
+deni.dxc: folds 
+LuCaSLimaAAKK: folds 
+*** FLOP *** [Kc 7h 7c]
+z4ckzin: bets 117
+muschkote44: calls 117
+*** TURN *** [Kc 7h 7c] [2s]
+z4ckzin: bets 344
+muschkote44: folds 
+Uncalled bet (344) returned to z4ckzin
+z4ckzin collected 764 from pot
+z4ckzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 764 | Rake 0 
+Board [Kc 7h 7c 2s]
+Seat 1: z4ckzin collected (764)
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 4: muschkote44 folded on the Turn
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 6: paulorcotrim folded before Flop (didn't bet)
+Seat 7: Vinao182 (button) folded before Flop (didn't bet)
+Seat 8: deni.dxc (small blind) folded before Flop
+Seat 9: LuCaSLimaAAKK (big blind) folded before Flop
+
+
+
+PokerStars Hand #237590955728: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:45:53 BRT [2022/07/25 22:45:53 ET]
+Table '3446798234 5' 9-max Seat #8 is the button
+Seat 1: z4ckzin (3323 in chips) 
+Seat 2: liev_ref (3295 in chips) 
+Seat 3: spiga471 (1209 in chips) 
+Seat 4: muschkote44 (2822 in chips) 
+Seat 5: QUINDICI3838 (4544 in chips) 
+Seat 6: paulorcotrim (1622 in chips) 
+Seat 7: Vinao182 (1441 in chips) is sitting out
+Seat 8: deni.dxc (1523 in chips) 
+Seat 9: LuCaSLimaAAKK (4209 in chips) 
+z4ckzin: posts the ante 10
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+muschkote44: posts the ante 10
+QUINDICI3838: posts the ante 10
+paulorcotrim: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+LuCaSLimaAAKK: posts small blind 40
+z4ckzin: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [Qd 2s]
+liev_ref: folds 
+spiga471: folds 
+muschkote44: folds 
+QUINDICI3838: calls 80
+paulorcotrim: folds 
+Vinao182: folds 
+deni.dxc: folds 
+LuCaSLimaAAKK: calls 40
+z4ckzin: raises 240 to 320
+QUINDICI3838: calls 240
+LuCaSLimaAAKK: folds 
+*** FLOP *** [9s 8c 7d]
+Vinao182 has returned
+z4ckzin: bets 240
+QUINDICI3838: calls 240
+*** TURN *** [9s 8c 7d] [4d]
+z4ckzin: bets 581
+QUINDICI3838: calls 581
+*** RIVER *** [9s 8c 7d 4d] [7s]
+z4ckzin: bets 2172 and is all-in
+QUINDICI3838: folds 
+Uncalled bet (2172) returned to z4ckzin
+z4ckzin collected 2452 from pot
+z4ckzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 2452 | Rake 0 
+Board [9s 8c 7d 4d 7s]
+Seat 1: z4ckzin (big blind) collected (2452)
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 4: muschkote44 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 folded on the River
+Seat 6: paulorcotrim folded before Flop (didn't bet)
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc (button) folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK (small blind) folded before Flop
+
+
+
+PokerStars Hand #237590966517: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:46:46 BRT [2022/07/25 22:46:46 ET]
+Table '3446798234 5' 9-max Seat #9 is the button
+Seat 1: z4ckzin (4624 in chips) 
+Seat 2: liev_ref (3285 in chips) 
+Seat 3: spiga471 (1199 in chips) 
+Seat 4: muschkote44 (2812 in chips) 
+Seat 5: QUINDICI3838 (3393 in chips) 
+Seat 6: paulorcotrim (1612 in chips) 
+Seat 7: Vinao182 (1431 in chips) 
+Seat 8: deni.dxc (1513 in chips) 
+Seat 9: LuCaSLimaAAKK (4119 in chips) 
+z4ckzin: posts the ante 10
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+muschkote44: posts the ante 10
+QUINDICI3838: posts the ante 10
+paulorcotrim: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+z4ckzin: posts small blind 40
+liev_ref: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [6c Th]
+spiga471: folds 
+muschkote44: raises 84 to 164
+QUINDICI3838: folds 
+paulorcotrim: calls 164
+Vinao182: calls 164
+deni.dxc: folds 
+LuCaSLimaAAKK: calls 164
+z4ckzin: folds 
+liev_ref: calls 84
+*** FLOP *** [Qh Qd 7d]
+liev_ref: checks 
+muschkote44: checks 
+paulorcotrim: checks 
+Vinao182: checks 
+LuCaSLimaAAKK: checks 
+*** TURN *** [Qh Qd 7d] [Kh]
+liev_ref: checks 
+muschkote44: checks 
+paulorcotrim: bets 320
+Vinao182: folds 
+LuCaSLimaAAKK: calls 320
+liev_ref: folds 
+muschkote44: folds 
+*** RIVER *** [Qh Qd 7d Kh] [Jh]
+paulorcotrim: bets 1118 and is all-in
+LuCaSLimaAAKK: calls 1118
+*** SHOW DOWN ***
+paulorcotrim: shows [9d As] (a pair of Queens)
+LuCaSLimaAAKK: shows [8h 5h] (a flush, King high)
+LuCaSLimaAAKK collected 3826 from pot
+paulorcotrim finished the tournament in 25th place
+*** SUMMARY ***
+Total pot 3826 | Rake 0 
+Board [Qh Qd 7d Kh Jh]
+Seat 1: z4ckzin (small blind) folded before Flop
+Seat 2: liev_ref (big blind) folded on the Turn
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 4: muschkote44 folded on the Turn
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 6: paulorcotrim showed [9d As] and lost with a pair of Queens
+Seat 7: Vinao182 folded on the Turn
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK (button) showed [8h 5h] and won (3826) with a flush, King high
+
+
+
+PokerStars Hand #237590986785: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:48:02 BRT [2022/07/25 22:48:02 ET]
+Table '3446798234 5' 9-max Seat #1 is the button
+Seat 1: z4ckzin (4574 in chips) 
+Seat 2: liev_ref (3111 in chips) 
+Seat 3: spiga471 (1189 in chips) 
+Seat 4: muschkote44 (2638 in chips) 
+Seat 5: QUINDICI3838 (3383 in chips) 
+Seat 7: Vinao182 (1257 in chips) 
+Seat 8: deni.dxc (1503 in chips) 
+Seat 9: LuCaSLimaAAKK (6333 in chips) 
+z4ckzin: posts the ante 10
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+muschkote44: posts the ante 10
+QUINDICI3838: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+liev_ref: posts small blind 40
+spiga471: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [5s 3s]
+muschkote44: folds 
+QUINDICI3838: folds 
+Vinao182: folds 
+deni.dxc: raises 80 to 160
+LuCaSLimaAAKK: calls 160
+z4ckzin: folds 
+liev_ref: folds 
+spiga471: folds 
+*** FLOP *** [9d Kc 6d]
+deni.dxc: checks 
+LuCaSLimaAAKK: checks 
+*** TURN *** [9d Kc 6d] [7d]
+deni.dxc: checks 
+LuCaSLimaAAKK: bets 160
+deni.dxc: folds 
+Uncalled bet (160) returned to LuCaSLimaAAKK
+LuCaSLimaAAKK collected 520 from pot
+LuCaSLimaAAKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9d Kc 6d 7d]
+Seat 1: z4ckzin (button) folded before Flop (didn't bet)
+Seat 2: liev_ref (small blind) folded before Flop
+Seat 3: spiga471 (big blind) folded before Flop
+Seat 4: muschkote44 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc folded on the Turn
+Seat 9: LuCaSLimaAAKK collected (520)
+
+
+
+PokerStars Hand #237590993097: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:48:39 BRT [2022/07/25 22:48:39 ET]
+Table '3446798234 5' 9-max Seat #2 is the button
+Seat 1: z4ckzin (4564 in chips) 
+Seat 2: liev_ref (3061 in chips) 
+Seat 3: spiga471 (1099 in chips) 
+Seat 4: muschkote44 (2628 in chips) 
+Seat 5: QUINDICI3838 (3373 in chips) 
+Seat 7: Vinao182 (1247 in chips) 
+Seat 8: deni.dxc (1333 in chips) 
+Seat 9: LuCaSLimaAAKK (6683 in chips) 
+z4ckzin: posts the ante 10
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+muschkote44: posts the ante 10
+QUINDICI3838: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+spiga471: posts small blind 40
+muschkote44: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [5h Kd]
+QUINDICI3838: folds 
+Vinao182: raises 1157 to 1237 and is all-in
+deni.dxc: folds 
+LuCaSLimaAAKK: folds 
+z4ckzin: folds 
+liev_ref: folds 
+spiga471: folds 
+muschkote44: folds 
+Uncalled bet (1157) returned to Vinao182
+Vinao182 collected 280 from pot
+Vinao182: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: z4ckzin folded before Flop (didn't bet)
+Seat 2: liev_ref (button) folded before Flop (didn't bet)
+Seat 3: spiga471 (small blind) folded before Flop
+Seat 4: muschkote44 (big blind) folded before Flop
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 7: Vinao182 collected (280)
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237591000673: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level IV (40/80) - 2022/07/25 23:49:23 BRT [2022/07/25 22:49:23 ET]
+Table '3446798234 5' 9-max Seat #3 is the button
+Seat 1: z4ckzin (4554 in chips) 
+Seat 2: liev_ref (3051 in chips) 
+Seat 3: spiga471 (1049 in chips) 
+Seat 4: muschkote44 (2538 in chips) 
+Seat 5: QUINDICI3838 (3363 in chips) 
+Seat 7: Vinao182 (1437 in chips) 
+Seat 8: deni.dxc (1323 in chips) 
+Seat 9: LuCaSLimaAAKK (6673 in chips) 
+z4ckzin: posts the ante 10
+liev_ref: posts the ante 10
+spiga471: posts the ante 10
+muschkote44: posts the ante 10
+QUINDICI3838: posts the ante 10
+Vinao182: posts the ante 10
+deni.dxc: posts the ante 10
+LuCaSLimaAAKK: posts the ante 10
+muschkote44: posts small blind 40
+QUINDICI3838: posts big blind 80
+*** HOLE CARDS ***
+Dealt to deni.dxc [Ks As]
+Vinao182: folds 
+deni.dxc: raises 1233 to 1313 and is all-in
+LuCaSLimaAAKK: folds 
+z4ckzin: folds 
+liev_ref: folds 
+spiga471: folds 
+muschkote44: folds 
+QUINDICI3838: folds 
+Uncalled bet (1233) returned to deni.dxc
+deni.dxc collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: z4ckzin folded before Flop (didn't bet)
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 (button) folded before Flop (didn't bet)
+Seat 4: muschkote44 (small blind) folded before Flop
+Seat 5: QUINDICI3838 (big blind) folded before Flop
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc collected (280)
+Seat 9: LuCaSLimaAAKK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237591005312: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2022/07/25 23:49:50 BRT [2022/07/25 22:49:50 ET]
+Table '3446798234 5' 9-max Seat #4 is the button
+Seat 1: z4ckzin (4544 in chips) 
+Seat 2: liev_ref (3041 in chips) 
+Seat 3: spiga471 (1039 in chips) 
+Seat 4: muschkote44 (2488 in chips) 
+Seat 5: QUINDICI3838 (3273 in chips) 
+Seat 7: Vinao182 (1427 in chips) 
+Seat 8: deni.dxc (1513 in chips) 
+Seat 9: LuCaSLimaAAKK (6663 in chips) 
+z4ckzin: posts the ante 15
+liev_ref: posts the ante 15
+spiga471: posts the ante 15
+muschkote44: posts the ante 15
+QUINDICI3838: posts the ante 15
+Vinao182: posts the ante 15
+deni.dxc: posts the ante 15
+LuCaSLimaAAKK: posts the ante 15
+QUINDICI3838: posts small blind 60
+Vinao182: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deni.dxc [6s 9h]
+deni.dxc: folds 
+LuCaSLimaAAKK: raises 120 to 240
+z4ckzin: raises 480 to 720
+liev_ref: folds 
+spiga471: folds 
+muschkote44: folds 
+QUINDICI3838: folds 
+Vinao182 has timed out
+Vinao182: folds 
+Vinao182 is sitting out
+LuCaSLimaAAKK: folds 
+Uncalled bet (480) returned to z4ckzin
+z4ckzin collected 780 from pot
+z4ckzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: z4ckzin collected (780)
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 4: muschkote44 (button) folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 (small blind) folded before Flop
+Seat 7: Vinao182 (big blind) folded before Flop
+Seat 8: deni.dxc folded before Flop (didn't bet)
+Seat 9: LuCaSLimaAAKK folded before Flop
+
+
+
+PokerStars Hand #237591017799: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2022/07/25 23:50:50 BRT [2022/07/25 22:50:50 ET]
+Table '3446798234 5' 9-max Seat #5 is the button
+Seat 1: z4ckzin (5069 in chips) 
+Seat 2: liev_ref (3026 in chips) 
+Seat 3: spiga471 (1024 in chips) 
+Seat 4: muschkote44 (2473 in chips) 
+Seat 5: QUINDICI3838 (3198 in chips) 
+Seat 7: Vinao182 (1292 in chips) is sitting out
+Seat 8: deni.dxc (1498 in chips) 
+Seat 9: LuCaSLimaAAKK (6408 in chips) 
+z4ckzin: posts the ante 15
+liev_ref: posts the ante 15
+spiga471: posts the ante 15
+muschkote44: posts the ante 15
+QUINDICI3838: posts the ante 15
+Vinao182: posts the ante 15
+deni.dxc: posts the ante 15
+LuCaSLimaAAKK: posts the ante 15
+Vinao182: posts small blind 60
+deni.dxc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deni.dxc [2h 9h]
+LuCaSLimaAAKK: calls 120
+z4ckzin: folds 
+liev_ref: folds 
+spiga471: calls 120
+muschkote44: folds 
+QUINDICI3838: folds 
+Vinao182: folds 
+deni.dxc: checks 
+*** FLOP *** [4d Kd 8d]
+deni.dxc: checks 
+LuCaSLimaAAKK: bets 120
+spiga471: folds 
+deni.dxc: folds 
+Uncalled bet (120) returned to LuCaSLimaAAKK
+LuCaSLimaAAKK collected 540 from pot
+LuCaSLimaAAKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [4d Kd 8d]
+Seat 1: z4ckzin folded before Flop (didn't bet)
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded on the Flop
+Seat 4: muschkote44 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 (button) folded before Flop (didn't bet)
+Seat 7: Vinao182 (small blind) folded before Flop
+Seat 8: deni.dxc (big blind) folded on the Flop
+Seat 9: LuCaSLimaAAKK collected (540)
+
+
+
+PokerStars Hand #237591023096: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2022/07/25 23:51:21 BRT [2022/07/25 22:51:21 ET]
+Table '3446798234 5' 9-max Seat #7 is the button
+Seat 1: z4ckzin (5054 in chips) 
+Seat 2: liev_ref (3011 in chips) 
+Seat 3: spiga471 (889 in chips) 
+Seat 4: muschkote44 (2458 in chips) 
+Seat 5: QUINDICI3838 (3183 in chips) 
+Seat 7: Vinao182 (1217 in chips) is sitting out
+Seat 8: deni.dxc (1363 in chips) 
+z4ckzin: posts the ante 15
+liev_ref: posts the ante 15
+spiga471: posts the ante 15
+muschkote44: posts the ante 15
+QUINDICI3838: posts the ante 15
+Vinao182: posts the ante 15
+deni.dxc: posts the ante 15
+deni.dxc: posts small blind 60
+z4ckzin: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deni.dxc [2d Tc]
+liev_ref: folds 
+spiga471: folds 
+muschkote44: folds 
+QUINDICI3838: folds 
+Vinao182: folds 
+deni.dxc: folds 
+Uncalled bet (60) returned to z4ckzin
+z4ckzin collected 225 from pot
+z4ckzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Seat 1: z4ckzin (big blind) collected (225)
+Seat 2: liev_ref folded before Flop (didn't bet)
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 4: muschkote44 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 7: Vinao182 (button) folded before Flop (didn't bet)
+Seat 8: deni.dxc (small blind) folded before Flop
+
+
+
+PokerStars Hand #237591024607: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2022/07/25 23:51:30 BRT [2022/07/25 22:51:30 ET]
+Table '3446798234 5' 9-max Seat #8 is the button
+Seat 1: z4ckzin (5204 in chips) 
+Seat 2: liev_ref (2996 in chips) 
+Seat 3: spiga471 (874 in chips) 
+Seat 4: muschkote44 (2443 in chips) 
+Seat 5: QUINDICI3838 (3168 in chips) 
+Seat 7: Vinao182 (1202 in chips) is sitting out
+Seat 8: deni.dxc (1288 in chips) 
+z4ckzin: posts the ante 15
+liev_ref: posts the ante 15
+spiga471: posts the ante 15
+muschkote44: posts the ante 15
+QUINDICI3838: posts the ante 15
+Vinao182: posts the ante 15
+deni.dxc: posts the ante 15
+z4ckzin: posts small blind 60
+liev_ref: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deni.dxc [4h 8s]
+spiga471: folds 
+muschkote44: folds 
+Vinao182 has returned
+QUINDICI3838: folds 
+Vinao182: folds 
+deni.dxc: folds 
+z4ckzin: raises 240 to 360
+liev_ref: calls 240
+*** FLOP *** [Ad 5d 6s]
+z4ckzin: bets 240
+liev_ref: calls 240
+*** TURN *** [Ad 5d 6s] [Jd]
+z4ckzin: bets 480
+liev_ref: calls 480
+*** RIVER *** [Ad 5d 6s Jd] [2d]
+z4ckzin: checks 
+liev_ref: checks 
+*** SHOW DOWN ***
+z4ckzin: shows [Qd 7c] (a flush, Ace high)
+liev_ref: mucks hand 
+z4ckzin collected 2265 from pot
+*** SUMMARY ***
+Total pot 2265 | Rake 0 
+Board [Ad 5d 6s Jd 2d]
+Seat 1: z4ckzin (small blind) showed [Qd 7c] and won (2265) with a flush, Ace high
+Seat 2: liev_ref (big blind) mucked [8h 9d]
+Seat 3: spiga471 folded before Flop (didn't bet)
+Seat 4: muschkote44 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237591036354: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2022/07/25 23:52:39 BRT [2022/07/25 22:52:39 ET]
+Table '3446798234 5' 9-max Seat #1 is the button
+Seat 1: z4ckzin (6374 in chips) 
+Seat 2: liev_ref (1901 in chips) 
+Seat 3: spiga471 (859 in chips) 
+Seat 4: muschkote44 (2428 in chips) 
+Seat 5: QUINDICI3838 (3153 in chips) 
+Seat 7: Vinao182 (1187 in chips) 
+Seat 8: deni.dxc (1273 in chips) 
+z4ckzin: posts the ante 15
+liev_ref: posts the ante 15
+spiga471: posts the ante 15
+muschkote44: posts the ante 15
+QUINDICI3838: posts the ante 15
+Vinao182: posts the ante 15
+deni.dxc: posts the ante 15
+liev_ref: posts small blind 60
+spiga471: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deni.dxc [Ah 6s]
+muschkote44: folds 
+QUINDICI3838: folds 
+Vinao182: calls 120
+deni.dxc: folds 
+z4ckzin: folds 
+liev_ref: calls 60
+spiga471: checks 
+*** FLOP *** [4c Js 6h]
+liev_ref: checks 
+spiga471: checks 
+regitour is disconnected 
+Vinao182: checks 
+*** TURN *** [4c Js 6h] [2d]
+liev_ref: bets 232
+spiga471: folds 
+Vinao182: folds 
+Uncalled bet (232) returned to liev_ref
+liev_ref collected 465 from pot
+liev_ref: doesn't show hand 
+*** SUMMARY ***
+Total pot 465 | Rake 0 
+Board [4c Js 6h 2d]
+Seat 1: z4ckzin (button) folded before Flop (didn't bet)
+Seat 2: liev_ref (small blind) collected (465)
+Seat 3: spiga471 (big blind) folded on the Turn
+Seat 4: muschkote44 folded before Flop (didn't bet)
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 7: Vinao182 folded on the Turn
+Seat 8: deni.dxc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237591060533: Tournament #3446798234, $0.45+$0.05 USD Hold'em No Limit - Level V (60/120) - 2022/07/25 23:54:03 BRT [2022/07/25 22:54:03 ET]
+Table '3446798234 5' 9-max Seat #2 is the button
+Seat 1: z4ckzin (6359 in chips) 
+Seat 2: liev_ref (2231 in chips) 
+Seat 3: spiga471 (724 in chips) 
+Seat 4: muschkote44 (2413 in chips) 
+Seat 5: QUINDICI3838 (3138 in chips) 
+Seat 6: regitour (4096 in chips) 
+Seat 7: Vinao182 (1052 in chips) 
+Seat 8: deni.dxc (1258 in chips) 
+Seat 9: JSE78 (4217 in chips) 
+z4ckzin: posts the ante 15
+liev_ref: posts the ante 15
+spiga471: posts the ante 15
+muschkote44: posts the ante 15
+QUINDICI3838: posts the ante 15
+regitour: posts the ante 15
+Vinao182: posts the ante 15
+deni.dxc: posts the ante 15
+JSE78: posts the ante 15
+spiga471: posts small blind 60
+muschkote44: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deni.dxc [Qs Ks]
+QUINDICI3838: folds 
+regitour: calls 120
+Vinao182: folds 
+deni.dxc: raises 1123 to 1243 and is all-in
+JSE78: folds 
+z4ckzin: folds 
+liev_ref: raises 973 to 2216 and is all-in
+spiga471: folds 
+muschkote44: folds 
+regitour: folds 
+Uncalled bet (973) returned to liev_ref
+*** FLOP *** [3h Ah 4c]
+*** TURN *** [3h Ah 4c] [9h]
+*** RIVER *** [3h Ah 4c 9h] [9c]
+*** SHOW DOWN ***
+deni.dxc: shows [Qs Ks] (a pair of Nines)
+liev_ref: shows [5s 5d] (two pair, Nines and Fives)
+liev_ref collected 2921 from pot
+deni.dxc finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 2921 | Rake 0 
+Board [3h Ah 4c 9h 9c]
+Seat 1: z4ckzin folded before Flop (didn't bet)
+Seat 2: liev_ref (button) showed [5s 5d] and won (2921) with two pair, Nines and Fives
+Seat 3: spiga471 (small blind) folded before Flop
+Seat 4: muschkote44 (big blind) folded before Flop
+Seat 5: QUINDICI3838 folded before Flop (didn't bet)
+Seat 6: regitour folded before Flop
+Seat 7: Vinao182 folded before Flop (didn't bet)
+Seat 8: deni.dxc showed [Qs Ks] and lost with a pair of Nines
+Seat 9: JSE78 folded before Flop (didn't bet)
+
+
+
