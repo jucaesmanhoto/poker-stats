@@ -18,6 +18,8 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
     t.string "flop"
     t.string "turn"
     t.string "river"
+    t.string "number"
+    t.integer "dealer_seat_number"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -27,6 +29,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
     t.integer "big_blind"
     t.integer "small_blind"
     t.integer "ante"
+    t.integer "level"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -44,6 +47,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
   create_table "player_hands", force: :cascade do |t|
     t.string "first_pocket_card"
     t.string "second_pocket_card"
+    t.integer "seat_number"
     t.bigint "hand_id", null: false
     t.bigint "user_id", null: false
     t.datetime "created_at", null: false
@@ -54,13 +58,13 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
 
   create_table "plays", force: :cascade do |t|
     t.string "action"
-    t.integer "chips"
-    t.bigint "user_id", null: false
+    t.integer "chips_before_action"
+    t.bigint "player_hand_id", null: false
     t.bigint "hand_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["hand_id"], name: "index_plays_on_hand_id"
-    t.index ["user_id"], name: "index_plays_on_user_id"
+    t.index ["player_hand_id"], name: "index_plays_on_player_hand_id"
   end
 
   create_table "prizes", force: :cascade do |t|
@@ -85,6 +89,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
 
   create_table "tables", force: :cascade do |t|
     t.integer "number_of_seats"
+    t.string "number"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -148,7 +153,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
   add_foreign_key "player_hands", "hands"
   add_foreign_key "player_hands", "users"
   add_foreign_key "plays", "hands"
-  add_foreign_key "plays", "users"
+  add_foreign_key "plays", "player_hands"
   add_foreign_key "prizes", "tournaments"
   add_foreign_key "table_hands", "hands"
   add_foreign_key "table_hands", "initial_bet_structures"
