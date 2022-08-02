@@ -74,7 +74,6 @@ class UploadController < ApplicationController
         if player.nil?
             player = Player.create(username: name, email: "#{name.gsub(' ', '')}@email.com", password: '123456')
         end
-
         TournamentPlayer.create(tournament: tournament, user: player, finished_at: match[:position])
     end
 
