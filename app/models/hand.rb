@@ -1,4 +1,4 @@
-class Round < ApplicationRecord
+class Hand < ApplicationRecord
     has_many :plays
     has_many :users, through: :plays
 

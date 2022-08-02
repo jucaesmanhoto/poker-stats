@@ -1,5 +1,5 @@
 class PlayerHand < ApplicationRecord
-  belongs_to :round
+  belongs_to :hand
   belongs_to :user
 end
 

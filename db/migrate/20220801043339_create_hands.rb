@@ -1,6 +1,6 @@
-class CreateRounds < ActiveRecord::Migration[7.0]
+class CreateHands < ActiveRecord::Migration[7.0]
   def change
-    create_table :rounds do |t|
+    create_table :hands do |t|
       t.string :flop
       t.string :turn
       t.string :river
