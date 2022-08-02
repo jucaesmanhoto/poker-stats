@@ -1,6 +1,6 @@
 require "test_helper"
 
-class UserHandTest < ActiveSupport::TestCase
+class TournamentKnockOutTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
