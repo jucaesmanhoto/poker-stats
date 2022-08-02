@@ -60,6 +60,13 @@ class UploadController < ApplicationController
         tournament.save
     end
 
+    def create_hand_history
+        
+    end
+
+    private
+
+
     def create_player(match, tournament)
         name = match[:player_name]
         if name.include?("[")

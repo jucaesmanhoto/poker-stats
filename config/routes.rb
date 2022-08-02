@@ -4,7 +4,8 @@ Rails.application.routes.draw do
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   get '/upload', to: 'upload#new'
-  post '/upload', to: 'upload#create_tournament_summary'
+  post '/upload-summary', to: 'upload#create_tournament_summary'
+  post '/upload-hand-history', to: 'upload#create_tournament_summary'
   # Defines the root path route ("/")
   # root "articles#index"
 end
