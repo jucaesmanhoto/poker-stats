@@ -21,50 +21,50 @@ class TournamentsController < ApplicationController
     path = "lib/assets/TS20220725.txt"
     tournament = Tournament.new
     File.open(path).each do |line|
-       REGEX_TOURNAMENT_SUMMARY.each do |key, regexp|
-            match = line.match(regexp)
-            if match && key == :tournament
-                tournament.number = match[:number]
-            end
-            if match && key == :buy_in
-                tournament.buy_in_cents = (match[:buy_in].to_f * 100).to_i
-                tournament.tax_cents = (match[:tax].to_f * 100).to_i
-            end
-            if match && key == :number_of_seats
-                tournament.number_of_seats = match[:number_of_seats].to_i
-            end
-            if match && key == :total_prize
-                tournament.total_prize_cents = (match[:total_prize].to_f * 100).to_i
-            end
-            if match && key == :started_at
-                tournament.started_at = DateTime.new(
-                    match[:y].to_i,
-                    match[:M].to_i,
-                    match[:d].to_i,
-                    match[:h].to_i,
-                    match[:m].to_i,
-                    match[:s].to_i
-                )
-            end
-            if match && key == :player
-                create_player(match, tournament)
-            end
-            # TODO Save the finished place of the player
-            # if match && key == :finished
-            #     tournament_player = TournamentPlayer.where(tournament: tournament, user: current_user)
-            #     tournament_player.finished_at = match[:finished_at].to_i
-            #     raise
-            #     tournament_player.save
-            # end
-       end
+      REGEX_TOURNAMENT_SUMMARY.each do |key, regexp|
+        match = line.match(regexp)
+        if match && key == :tournament
+            tournament.number = match[:number]
+        end
+        if match && key == :buy_in
+            tournament.buy_in_cents = (match[:buy_in].to_f * 100).to_i
+            tournament.tax_cents = (match[:tax].to_f * 100).to_i
+        end
+        if match && key == :number_of_seats
+            tournament.number_of_seats = match[:number_of_seats].to_i
+        end
+        if match && key == :total_prize
+            tournament.total_prize_cents = (match[:total_prize].to_f * 100).to_i
+        end
+        if match && key == :started_at
+            tournament.started_at = DateTime.new(
+                match[:y].to_i,
+                match[:M].to_i,
+                match[:d].to_i,
+                match[:h].to_i,
+                match[:m].to_i,
+                match[:s].to_i
+            )
+        end
+        if match && key == :player
+            create_player(match, tournament)
+        end
+        # TODO Save the finished place of the player
+        # if match && key == :finished
+        #     tournament_player = TournamentPlayer.where(tournament: tournament, user: current_user)
+        #     tournament_player.finished_at = match[:finished_at].to_i
+        #     raise
+        #     tournament_player.save
+        # end
+      end
     end
     tournament.save
-end
+  end
 
 
-private
+    private
 
-def create_player(match, tournament)
+  def create_player(match, tournament)
     name = match[:player_name]
     if name.include?("[")
         name_array = name.split
@@ -79,6 +79,6 @@ def create_player(match, tournament)
         player = Player.create(username: name, email: "#{name.gsub(' ', '')}@email.com", password: '123456')
     end
     TournamentPlayer.create(tournament: tournament, user: player, finished_at: match[:position])
-end
+  end
 
 end
