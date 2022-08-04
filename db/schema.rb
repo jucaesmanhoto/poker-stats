@@ -15,7 +15,9 @@ ActiveRecord::Schema[7.0].define(version: 2022_08_01_234713) do
   enable_extension "plpgsql"
 
   create_table "hands", force: :cascade do |t|
-    t.string "flop"
+    t.string "flop_first_card"
+    t.string "flop_second_card"
+    t.string "flop_third_card"
     t.string "turn"
     t.string "river"
     t.string "number"
