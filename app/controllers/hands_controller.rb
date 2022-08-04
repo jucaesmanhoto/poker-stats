@@ -2,8 +2,6 @@ class HandsController < ApplicationController
 
 
   REGEX_HAND_HISTORY = {
-    hand_number: /PokerStars Hand #(?<hand_number>\d*):\s*Tournament\s*#(?<tournament_number>\d*),\s*\$(?<buy_in>\d*\.\d{2})\+\$(?<tax>\d*\.\d{2}).*Level (?<level>\w) \((?<small_blind>\d*)\/(?<big_blind>\d*)\)\s-\s(?<y>\d{4})\/(?<M>\d{2})\/(?<d>\d{2}) (?<h>\d{2}):(?<m>\d{2}):(?<s>\d{2})/i,
-    table_number: /Table\s*'(?<table_number>\d*\s\d*)'\s*(?<max_seats>\d)-max Seat #(?<button_seat>\d) is the button/i,
     hole_cards: /Dealt to\s(?<player_username>.*)\s\[(?<first_card>\d|\w{2,3})\s(?<second_card>\d|\w{2,3})\]/i,
     flop: /\*\*\* FLOP \*\*\* \[(?<first_card>.{2,3})\s(?<second_card>.{2,3})\s(?<third_card>.{2,3})\]/i,
     turn: /\*\*\* TURN \*\*\* \[.*\] \[(?<turn>.{2,3})\]/i,
