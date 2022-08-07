@@ -7,4 +7,7 @@ class Hand < ApplicationRecord
 
     has_many :table_hands
     has_many :tables, through: :table_hands
+
+    validates :number, uniqueness: true
+    validates :number, numericality: { only_integer: true }
 end
