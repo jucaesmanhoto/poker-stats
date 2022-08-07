@@ -8,7 +8,7 @@ class TournamentsController < ApplicationController
     number_of_seats: /(?<number_of_seats>\d*)\s{1}players/i,
     total_prize: /Total Prize Pool:\s*\$(?<total_prize>\d*\.\d{2})/i, 
     started_at: /Tournament started (?<y>\d{4})\/(?<M>\d{2})\/(?<d>\d{2}) (?<h>\d{2}):(?<m>\d{2}):(?<s>\d{2})/i,
-    player: /\s*(?<position>\d*):\s(?<player_name>.*)\s\((?<country>.*)\),\s(?<still_playing>.*)?/i,
+    player: /\s*(?<position>\d*):\s(?<player_username>.*)\s\((?<country>.*)\),\s(?<still_playing>.*)?/i,
     finished: /You finished in (?<finished_at>\d*).*#(?<hand_number>\d*)\)/i,
     rebuy: /\s\[(?<rebuy>\d*)\]/i
   } 
@@ -49,7 +49,7 @@ class TournamentsController < ApplicationController
             end
 
             if match && key == :player
-                player = create_player(match)
+                player = helpers.get_or_create_player(match[:player_username])
                 # If the player is still playing, will get the position = 0
                 finished_at = match[:still_playing].strip == "still playing" ? 0 : match[:position].to_i
                 tournament_player = TournamentPlayer.new(
@@ -59,34 +59,11 @@ class TournamentsController < ApplicationController
                 )
                 tournament_player.save!
             end
-            
-            # if match && key == :finished
-            #     tournament_player = TournamentPlayer.where(tournament: tournament, user: current_user).first
-            #     tournament_player.finished_at = match[:finished_at].to_i
-            #     tournament_player.save!
-            # end
        end
     end
 end
 
 
 private
-
-def create_player(match)
-    name = match[:player_name]
-    if name.include?("[")
-        name_array = name.split
-        rebuy = name_array.last.gsub("[", "").gsub("]", "").to_i
-        name_array.pop        
-        name = name_array.join
-        p name
-    end
-    
-    player =  Player.find_by(username: name)
-    if player.nil?
-        player = Player.create(username: name, email: "#{name.gsub(' ', '')}@email.com", password: '123456')
-    end
-    player
-end
 
 end
