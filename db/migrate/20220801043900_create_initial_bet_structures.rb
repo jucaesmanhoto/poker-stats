@@ -5,6 +5,7 @@ class CreateInitialBetStructures < ActiveRecord::Migration[7.0]
       t.integer :big_blind
       t.integer :small_blind
       t.integer :ante
+      t.integer :level
 
       t.timestamps
     end

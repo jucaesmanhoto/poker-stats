@@ -1,4 +1,4 @@
 class InitialBetStructure < ApplicationRecord
-    has_many :table_rounds
-    has_many :rounds, through: :table_rounds
+    has_many :table_hands
+    has_many :hands, through: :table_hands
 end
