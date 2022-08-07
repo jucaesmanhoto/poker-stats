@@ -33,7 +33,6 @@ class HandsController < ApplicationController
     table = nil
     initial_bet_structure = nil
     hand = nil
-    player_hand = nil
     
     File.open(path).each do |line|
       REGEX_HAND_HISTORY.each do |key, regexp|
