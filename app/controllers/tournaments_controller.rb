@@ -45,26 +45,34 @@ class TournamentsController < ApplicationController
                     match[:m].to_i,
                     match[:s].to_i
                 )
+                tournament.save!
             end
+
             if match && key == :player
-                create_player(match, tournament)
+                player = create_player(match)
+                # If the player is still playing, will get the position = 0
+                finished_at = match[:still_playing].strip == "still playing" ? 0 : match[:position].to_i
+                tournament_player = TournamentPlayer.new(
+                    user: player,
+                    tournament: tournament,
+                    finished_at: finished_at
+                )
+                tournament_player.save!
             end
-            # TODO Save the finished place of the player
+            
             # if match && key == :finished
-            #     tournament_player = TournamentPlayer.where(tournament: tournament, user: current_user)
+            #     tournament_player = TournamentPlayer.where(tournament: tournament, user: current_user).first
             #     tournament_player.finished_at = match[:finished_at].to_i
-            #     raise
-            #     tournament_player.save
+            #     tournament_player.save!
             # end
        end
     end
-    tournament.save
 end
 
 
 private
 
-def create_player(match, tournament)
+def create_player(match)
     name = match[:player_name]
     if name.include?("[")
         name_array = name.split
@@ -78,7 +86,7 @@ def create_player(match, tournament)
     if player.nil?
         player = Player.create(username: name, email: "#{name.gsub(' ', '')}@email.com", password: '123456')
     end
-    TournamentPlayer.create(tournament: tournament, user: player, finished_at: match[:position])
+    player
 end
 
 end

@@ -2,7 +2,7 @@ class HandsController < ApplicationController
 
 
   REGEX_HAND_HISTORY = {
-    hand_number: /PokerStars Hand #(?<hand_number>\d*):\s*Tournament\s*#(?<tournament_number>\d*),\s*\$(?<buy_in>\d*\.\d{2})\+\$(?<tax>\d*\.\d{2}).*Level (?<level>\w) \((?<small_blind>\d*)\/(?<big_blind>\d*)\)\s-\s(?<y>\d{4})\/(?<M>\d{2})\/(?<d>\d{2}) (?<h>\d{2}):(?<m>\d{2}):(?<s>\d{2})/i,
+    hand_number: /PokerStars Hand #(?<hand_number>\d*):\s*Tournament\s*#(?<tournament_number>\d*),\s*\$(?<buy_in>\d*\.\d{2})\+\$(?<tax>\d*\.\d{2}).*Level (?<level>\w*) \((?<small_blind>\d*)\/(?<big_blind>\d*)\)\s-\s(?<y>\d{4})\/(?<M>\d{2})\/(?<d>\d{2}) (?<h>\d{2}):(?<m>\d{2}):(?<s>\d{2})/i,
     table_number: /Table\s*'(?<table_number>\d*\s\d*)'\s*(?<max_seats>\d)-max Seat #(?<button_seat>\d) is the button/i,
     hole_cards: /Dealt to.*\[(?<first_card>\d|\w{2,3})\s(?<second_card>\d|\w{2,3})\]/i,
   }
@@ -40,7 +40,7 @@ class HandsController < ApplicationController
         if match && key == :hand_number
           hand = get_or_create_hand(match)
           tournament = get_or_create_tournament(match)
-          initial_bet_structure = InitialBetStructure.create(
+          initial_bet_structure = InitialBetStructure.create!(
             big_blind: match[:big_blind],
             small_blind: match[:small_blind],
             level: LEVELS[match[:level].to_sym]
@@ -48,11 +48,22 @@ class HandsController < ApplicationController
         end
 
         if match && key == :table_number
-          table = get_or_create_table(match, tournament)
+          table = get_or_create_table(match)
+          tournament_table = TournamentTable.create!(
+            tournament: tournament,
+            table: table
+          )
+
           hand.save
+          
+          raise if initial_bet_structure.nil?
           table_hand = TableHand.find_by(hand: hand, table: table, initial_bet_structure: initial_bet_structure)
           if table_hand.nil?
-            TableHand.create(hand: hand, table: table, initial_bet_structure: initial_bet_structure)
+            TableHand.create!(
+              hand: hand, 
+              table: table, 
+              initial_bet_structure: initial_bet_structure
+            )
           end
         end
 
@@ -76,14 +87,13 @@ class HandsController < ApplicationController
     hand
   end
 
-  def get_or_create_table(match, tournament)
+  def get_or_create_table(match)
     table = Table.find_by(number: match[:table_number])
     if table.nil?
       table = Table.create(
         number: match[:table_number],
         number_of_seats: match[:max_seats],
       )
-      TournamentTable.create(tournament: tournament, table: table)
     end
     table
   end
@@ -91,10 +101,10 @@ class HandsController < ApplicationController
   def get_or_create_tournament(match)
     tournament = Tournament.find_by(number: match[:tournament_number])
     if tournament.nil?
-      tournament = Tournament.new(
+      tournament = Tournament.create!(
         number: match[:tournament_number],
-        buy_in_cents: match[:buy_in],
-        tax_cents: match[:tax],
+        buy_in_cents: match[:buy_in].to_i,
+        tax_cents: match[:tax].to_i,
         started_at: DateTime.new(
           match[:y].to_i, 
           match[:M].to_i, 
@@ -104,7 +114,6 @@ class HandsController < ApplicationController
           match[:s].to_i
         ),
       )
-      tournament.save
     end
     tournament
   end

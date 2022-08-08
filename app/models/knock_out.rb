@@ -5,4 +5,6 @@ class KnockOut < ApplicationRecord
   has_many :users, through: :tournament_players
   has_many :tournament_knock_outs
   has_many :tournaments, through: :tournament_knock_outs
+
+  validates :looser_chips_amount, numericality: { only_integer: true }
 end
