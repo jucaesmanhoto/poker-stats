@@ -2,16 +2,10 @@ class HandsController < ApplicationController
 
 
   REGEX_HAND_HISTORY = {
-    hole_cards: /Dealt to\s(?<player_username>.*)\s\[(?<first_card>\d|\w{2,3})\s(?<second_card>\d|\w{2,3})\]/i,
-    flop: /\*\*\* FLOP \*\*\* \[(?<first_card>.{2,3})\s(?<second_card>.{2,3})\s(?<third_card>.{2,3})\]/i,
-    turn: /\*\*\* TURN \*\*\* \[.*\] \[(?<turn>.{2,3})\]/i,
-    river: /\*\*\* RIVER \*\*\* \[.*\] \[(?<river>.{2,3})\]/i,
-    section_name: /\*\*\* (?<section_name>.*) \*\*\*/i,
-  }
-
-  SETUP_REGEX = {
-    hand_number: /PokerStars Hand #(?<hand_number>\d*):\s*Tournament\s*#(?<tournament_number>\d*),\s*\$(?<buy_in>\d*\.\d{2})\+\$(?<tax>\d*\.\d{2}).*Level (?<level>\w) \((?<small_blind>\d*)\/(?<big_blind>\d*)\)\s-\s(?<y>\d{4})\/(?<M>\d{2})\/(?<d>\d{2}) (?<h>\d{2}):(?<m>\d{2}):(?<s>\d{2})/i,
+    hand_number: /PokerStars Hand #(?<hand_number>\d*):\s*Tournament\s*#(?<tournament_number>\d*),\s*\$(?<buy_in>\d*\.\d{2})\+\$(?<tax>\d*\.\d{2}).*Level (?<level>\w*) \((?<small_blind>\d*)\/(?<big_blind>\d*)\)\s-\s(?<y>\d{4})\/(?<M>\d{2})\/(?<d>\d{2}) (?<h>\d{2}):(?<m>\d{2}):(?<s>\d{2})/i,
     table_number: /Table\s*'(?<table_number>\d*\s\d*)'\s*(?<max_seats>\d)-max Seat #(?<button_seat>\d) is the button/i,
+    hole_cards: /Dealt to.*\[(?<first_card>\d|\w{2,3})\s(?<second_card>\d|\w{2,3})\]/i,
+    table_set_up: /Seat (?<seat_number>\d*)\:\s(?<player_username>.*)\s\((?<chips>\d*)\s/i,
   }
 
   LEVELS = {
@@ -37,64 +31,58 @@ class HandsController < ApplicationController
     path = "lib/assets/HH20220725.txt"
     @tournament = nil
     table = nil
-    @initial_bet_structure = nil
-    @hand = nil
-
-    hands = get_lines_per_hand(path)
-
-    hands.each do |hand_lines|
-      sections = separate_by_section(hand_lines)
-      
-      parse_setup(sections[:setup])
-      
-      parse_hole_cards(sections[:"HOLE CARDS"])
-
+    initial_bet_structure = nil
+    hand = nil
+    
+    File.open(path).each do |line|
       REGEX_HAND_HISTORY.each do |key, regexp|
-        match = hand_lines.match(regexp)
+        match = line.match(regexp)
         
-        # if match && key == :hand_number
-        #   hand = get_or_create_hand(match)
-        #   tournament = get_or_create_tournament(match)
-        #   initial_bet_structure = InitialBetStructure.create(
-        #     big_blind: match[:big_blind],
-        #     small_blind: match[:small_blind],
-        #     level: LEVELS[match[:level].to_sym]
-        #   )
-        # end
-
-        # if match && key == :table_number
-        #   table = get_or_create_table(match, tournament)
-        #   hand.save
-        #   table_hand = TableHand.find_by(hand: hand, table: table, initial_bet_structure: initial_bet_structure)
-        #   if table_hand.nil?
-        #     TableHand.create(hand: hand, table: table, initial_bet_structure: initial_bet_structure)
-        #   end
-        # end
-
-        if match && key == :hole_cards
-          PlayerHand.create(
-            user: current_user,
-            hand: hand,
-            first_pocket_card: match[:first_card],
-            second_pocket_card: match[:second_card],
+        if match && key == :hand_number
+          hand = get_or_create_hand(match)
+          tournament = get_or_create_tournament(match)
+          initial_bet_structure = InitialBetStructure.create!(
+            big_blind: match[:big_blind],
+            small_blind: match[:small_blind],
+            level: LEVELS[match[:level].to_sym]
           )
         end
 
-        if match && key == :flop
-           hand.flop_first_card = match[:first_card]
-           hand.flop_second_card = match[:second_card]
-           hand.flop_third_card = match[:third_card]
-           hand.save
+        if match && key == :table_number
+          table = get_or_create_table(match)
+          tournament_table = TournamentTable.create!(
+            tournament: tournament,
+            table: table
+          )
+
+          hand.save
+          
+          table_hand = TableHand.find_by(hand: hand, table: table, initial_bet_structure: initial_bet_structure)
+          if table_hand.nil?
+            TableHand.create!(
+              hand: hand, 
+              table: table, 
+              initial_bet_structure: initial_bet_structure
+            )
+          end
         end
 
-        if match && key == :turn
-          hand.turn = match[:turn]
-          hand.save
+        if match && key == :table_set_up
+          player = helpers.get_or_create_player(match[:player_username])
+          PlayerHand.create!(
+            user: player,
+            hand: hand,
+            seat_number: match[:seat_number].to_i  
+          )
         end
 
-        if match && key == :river
-          hand.river = match[:river]
-          hand.save
+        if match && key == :hole_cards
+          player_hand = get_or_create_player_hand(current_user.username, hand)
+          
+          player_hand.first_pocket_card = match[:first_card]
+          player_hand.second_pocket_card = match[:second_card]
+
+          player_hand.save!
         end
       end
     end
@@ -183,6 +171,14 @@ class HandsController < ApplicationController
     hands
   end
   
+  def get_or_create_player_hand(username, hand)
+    player_hand = PlayerHand.find_by(user: helpers.get_or_create_player(username), hand: hand)
+    if player_hand.nil?
+      player_hand = PlayerHand.create()
+    end
+    player_hand
+  end
+  
   def get_or_create_hand(match)
     hand = Hand.find_by(number: match[:hand_number])
     if hand.nil?
@@ -198,7 +194,6 @@ class HandsController < ApplicationController
         number: match[:table_number],
         number_of_seats: match[:max_seats],
       )
-      TournamentTable.create(tournament: @tournament, table: table)
     end
     table
   end
@@ -206,10 +201,10 @@ class HandsController < ApplicationController
   def get_or_create_tournament(match)
     tournament = Tournament.find_by(number: match[:tournament_number])
     if tournament.nil?
-      tournament = Tournament.new(
+      tournament = Tournament.create!(
         number: match[:tournament_number],
-        buy_in_cents: match[:buy_in],
-        tax_cents: match[:tax],
+        buy_in_cents: match[:buy_in].to_i,
+        tax_cents: match[:tax].to_i,
         started_at: DateTime.new(
           match[:y].to_i, 
           match[:M].to_i, 
@@ -219,7 +214,6 @@ class HandsController < ApplicationController
           match[:s].to_i
         ),
       )
-      tournament.save
     end
     tournament
   end
