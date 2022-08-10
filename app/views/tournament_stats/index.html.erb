@@ -1,0 +1,23 @@
+<div class='container'>
+    <h1 class='pt-5'>Tournament Statistics for <%= current_user.username %></h1>
+
+    <div>
+        <div class='stats p-3'>
+            <h2>ROI</h2>
+            <h4><%= @roi %>%</h4>
+        </div>
+
+        <div class='stats p-3'>
+            <h2>Prizes</h2>
+            <h4>U<%= @prizes %></h4>
+        </div>
+
+        <div class='stats p-3'>
+            <h2>Buy-ins</h2>
+            <h4>U<%= @spent %></h4>
+        </div>
+
+    </div>
+
+</div>
+

@@ -6,6 +6,9 @@ Rails.application.routes.draw do
   # root "/"
 
   resources :tournaments, only: %i[new create]
-  resources :hands, only: %i[new create]
+  resources :hands, only: %i[new create index]
+  resources :tournament_stats, only: %i[index show]
+  # get '/upload-tournament', to: 'upload_tournament#new'
+  # post '/summary', to: 'upload_tournament#create'
 
 end

@@ -10,6 +10,10 @@ module ApplicationHelper
         player
     end
 
+    def cents_to_money(value_in_cents)
+        number_to_currency(value_in_cents.to_f / 100)
+    end
+
     private
     def clean_up_username(name)
       # retira os rebuys do nome
